@@ -1,18 +1,24 @@
 {
   "name": "roarzone-tizenbrew",
+  "appName": "RoarZone TV",
   "version": "1.0.0",
   "description": "RoarZone TV launcher for TizenBrew",
   "packageType": "mods",
-  "appName": "RoarZone TV",
   "websiteURL": "https://tv.roarzone.net",
   "main": "index.js",
+  "author": "Sazin31",
   "keys": [
     "MediaPlayPause",
     "MediaPlay",
     "MediaPause",
     "MediaStop",
     "MediaFastForward",
-    "MediaRewind"
+    "MediaRewind",
+    "MediaTrackNext",
+    "MediaTrackPrevious"
   ],
+  "repository": {
+    "url": "https://github.com/Sazin31/roarzone-tizenbrew"
+  },
   "license": "MIT"
 }
